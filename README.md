@@ -15,8 +15,18 @@
 <li>📠 VBScript 📠</li>
 </ul>
 
-```
+[![Void Chacal](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidChacal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Void Chacal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidChacal&show_icons=true&theme=dark)
 
+```
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <cmath>
+#include <fstream>
+
+if(pain = 0){
     note: This error originates from a subprocess, and is likely not a problem with pip.
         ERROR: Failed building wheel for blis
         Running setup.py clean for blis
@@ -32,11 +42,11 @@
     ╰─> See above for output.
 
     note: This error originates from a subprocess, and is likely not a problem with pip.
-
+}
+else{
+    std::cout << "Give up. \n";
+}
 ```
-
-[![Void Chacal](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidChacal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Void Chacal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidChacal&show_icons=true&theme=dark)
 
 <img src="what_is_the_chance.gif" height="200px">
 
