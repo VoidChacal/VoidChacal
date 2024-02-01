@@ -13,3 +13,5 @@
 
 [![Void Chacal](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidChacal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Void Chacal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidChacal&show_icons=true&theme=dark)
+
+### I hate python, package installation and its requirements
