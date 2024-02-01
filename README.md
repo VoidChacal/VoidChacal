@@ -2,16 +2,41 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/VoidLunar/)
 
-### 💻 What I know 💻
+### 🔥 Я ненавижу 🔥
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<ul>
+<li>🐍 Python 🐍</li>
+<li>💾 C++ 💾</li>
+<li>🎮 C# 🎮</li>
+<li>🐘 PHP 🐘</li>
+<li>☕ Java ☕</li>
+<li>☕ JavaScript ☕</li>
+<li>📟 Batchfile 📟</li>
+<li>📠 VBScript 📠</li>
+</ul>
 
+```
+
+    note: This error originates from a subprocess, and is likely not a problem with pip.
+        ERROR: Failed building wheel for blis
+        Running setup.py clean for blis
+        Failed to build preshed thinc blis
+        ERROR: Could not build wheels for preshed, thinc, blis, which is required to install pyproject.toml-based projects
+        [end of output]
+
+    note: This error originates from a subprocess, and is likely not a problem with pip.
+    error: subprocess-exited-with-error
+
+    × pip subprocess to install build dependencies did not run successfully.
+    │ exit code: 1
+    ╰─> See above for output.
+
+    note: This error originates from a subprocess, and is likely not a problem with pip.
+
+```
 
 [![Void Chacal](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidChacal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Void Chacal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidChacal&show_icons=true&theme=dark)
 
-### I hate python, package installation and its requirements
+<img src="what_is_the_chance.gif" height="200px">
+
