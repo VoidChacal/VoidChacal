@@ -11,7 +11,6 @@
 <li>🐘 PHP 🐘</li>
 <li>☕ Java ☕</li>
 <li>☕ JavaScript ☕</li>
-<li>📟 Batchfile 📟</li>
 <li>📠 VBScript 📠</li>
 </ul>
 
