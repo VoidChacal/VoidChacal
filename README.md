@@ -2,8 +2,6 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/VoidChacal/)
 
-### 🔥 Я ненавижу 🔥
-
 <ul>
 <li>🐍 Python 🐍</li>
 <li>💾 C++ 💾</li>
